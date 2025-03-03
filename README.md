@@ -1,14 +1,35 @@
-# Hi 👋, I'm Karthikeyan Balasubramanian
+# Hello 👋, I'm Karthikeyan
 
-![profile views](https://komarev.com/ghpvc/?username=karthik-awebon&color=green)
-[![wakatime](https://wakatime.com/badge/user/0653cda0-f622-4930-8974-c19a957fc488.svg)](https://wakatime.com/@0653cda0-f622-4930-8974-c19a957fc488)
+**Senior Software Developer | React, Next.js, Node.js, Web3 | Architecting Scalable and Efficient Solutions**
 
-- ⚡ JavaScript, TypeScript, CSS, HTML, React, Next.js, Jest, Mocha,
-Node, Cron, MySQL, Redis, ES
-- 📫 How to reach me **[LinkedIn](https://bxyo.short.gy/karthik-github-linkedin)**
+Driven by a passion for building high-performance web applications, I specialize in React, Next.js, Node.js, and Web3. I thrive on solving complex technical challenges and delivering impactful solutions.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-awebon&langs_count=8&layout=compact)
+[![Profile Views](https://komarev.com/ghpvc/?username=karthik-awebon&color=green)](https://github.com/karthik-awebon)  [![WakaTime Stats](https://wakatime.com/badge/user/0653cda0-f622-4930-8974-c19a957fc488.svg)](https://wakatime.com/@0653cda0-f622-4930-8974-c19a957fc488)
 
-![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthik-awebon&show_icons=true)
+---
 
-<!--END_SECTION:waka-->
+## Technical Skills
+
+**Languages:** TypeScript, JavaScript
+
+**Frameworks/Libraries:** React, Next.js, Node.js, Web3 Libraries
+
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis
+
+**Cloud:** AWS (EC2, S3, Lambda, ECS), Azure (Functions, Cosmos DB), GCP (Compute Engine, Cloud Storage)
+
+**DevOps:** Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins, GitLab CI)
+
+---
+
+## Connect with Me
+
+-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=white&link=https://bxyo.short.gy/karthik-github-linkedin)](https://bxyo.short.gy/karthik-github-linkedin)
+
+---
+
+## GitHub Stats
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-awebon&langs_count=8&layout=compact)](https://github.com/karthik-awebon)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthik-awebon&show_icons=true&theme=default)](https://github.com/karthik-awebon)
