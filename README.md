@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋, I'm Karthikeyan Balasubramanian
 
-<!--
-**karthik-awebon/karthik-awebon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![profile views](https://komarev.com/ghpvc/?username=karthik-awebon&color=green)
+[![wakatime](https://wakatime.com/badge/user/0653cda0-f622-4930-8974-c19a957fc488.svg)](https://wakatime.com/@0653cda0-f622-4930-8974-c19a957fc488)
 
-Here are some ideas to get you started:
+- ⚡ JavaScript, TypeScript, CSS, HTML, React, Next.js, Jest, Mocha,
+Node, Cron, MySQL, Redis, ES
+- 📫 How to reach me **[LinkedIn](https://bxyo.short.gy/karthik-github-linkedin)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-awebon&langs_count=8&layout=compact)
+
+![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthik-awebon&show_icons=true)
+
+<!--END_SECTION:waka-->
